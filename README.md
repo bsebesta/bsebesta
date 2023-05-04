@@ -1,9 +1,8 @@
 ## About Me
 - 👋 Hi, I’m @bsebesta
-- 💪 I currently work at [RAIN.agency](https://rain.agency/) as a UX / UI designer, with a focus on conversational interfaces
-- 👀 I’m interested in UX and UI design, typography, conversational interfaces, accessibility, and the IndieWeb.
-- 🌱 I’m currently learning front-end engineering at [FrontEndMasters](https://frontendmasters.com/), and more about UI design at [Shift Nudge](https://shiftnudge.com/)
-- 🧑‍💻 [Check out my CodePen](https://codepen.io/bryanseb)
+- 💪 I previously work at [RAIN.agency](https://rain.agency/) as a UX / UI designer, with a focus on conversational interfaces
+- 👀 I’m interested in UX and UI design, front-end dev, typography, conversational interfaces, accessibility, and the IndieWeb.
+- 🌱 I’m working on my visual UI design skills using [Shift Nudge](https://shiftnudge.com/) and [Figma Academy](https://www.figma.academy/)
 - 📚 On the side, I enjoy learning about history, theology, poetry, and English syntax.
 - 📫 How to reach me: hello@bryansebesta.com
 
